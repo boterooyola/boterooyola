@@ -1,82 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00b894&height=190&section=header&text=Juan%20Sebasti%C3%A1n%20Botero&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=Cloud%20%C2%B7%20DevOps%20%C2%B7%20Ciberseguridad%20%C2%B7%20Redes&descAlignY=56&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00b894&height=190&section=header&text=Juan%20Sebasti%C3%A1n%20Botero&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=Cloud%20%C2%B7%20DevOps%20%C2%B7%20Cybersecurity%20%C2%B7%20Networking&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=De+la+red+f%C3%ADsica+a+la+nube%2C+sin+huecos;Infraestructura+como+c%C3%B3digo+en+AWS%2C+Azure+y+GCP;Kubernetes%2C+Docker+y+CI%2FCD;Seguridad+desde+el+dise%C3%B1o;Aprendo+r%C3%A1pido.+Entrego+documentado." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=From+the+physical+network+to+the+cloud;Infrastructure+as+Code+on+AWS%2C+Azure+and+GCP;Kubernetes%2C+Docker+and+CI%2FCD;Security+by+design;I+learn+fast.+I+ship+documented+work." alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-00b894?style=for-the-badge" alt="Abierto a oportunidades"/>
+<img src="https://img.shields.io/badge/Open%20to%20opportunities-00b894?style=for-the-badge" alt="Open to opportunities"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-Tengo formación en **Ingeniería de Telecomunicaciones**, así que entiendo la infraestructura **desde la capa física hasta la aplicación**: cómo viaja un paquete por la red de un ISP, cómo se aprovisiona un servidor en la nube, cómo se despliega un contenedor en Kubernetes y cómo se protege todo eso.
+My background is in **Telecommunications Engineering**, so I understand infrastructure **from the physical layer all the way up to the application**: how a packet travels across an ISP network, how a server is provisioned in the cloud, how a container is deployed on Kubernetes, and how to secure all of it.
 
-Trabajo en la intersección de **Cloud, DevOps, Redes y Ciberseguridad**. Automatizo infraestructura con **Terraform, Ansible y CloudFormation**, orquesto servicios con **Docker y Kubernetes** y practico seguridad ofensiva en laboratorios aislados para diseñar sistemas más difíciles de romper.
+I work at the intersection of **Cloud, DevOps, Networking and Cybersecurity**. I automate infrastructure with **Terraform, Ansible and CloudFormation**, orchestrate services with **Docker and Kubernetes**, and practice offensive security in isolated labs so I can design systems that are harder to break.
 
 ---
 
-## 🎯 ¿Por qué trabajar conmigo?
+## 🎯 Why work with me?
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Visión integral
+### 🧩 End-to-end vision
 
-No veo la infraestructura por partes. Cuando algo falla, puedo seguir el problema **de la red al servidor, del servidor al contenedor y del contenedor al pipeline**, sin depender de cinco personas distintas.
+I don't see infrastructure in silos. When something breaks, I can trace the problem **from the network to the server, from the server to the container, and from the container to the pipeline**, without needing five different people.
 
-- Hablo el idioma de **redes**, **sistemas**, **desarrollo** y **seguridad**.
-- Diseño pensando en el sistema completo: costo, disponibilidad, seguridad y operación.
-- Sirvo de puente entre equipos de infraestructura y de desarrollo.
+- I speak the language of **networking**, **systems**, **development** and **security**.
+- I design with the whole system in mind: cost, availability, security and operations.
+- I act as a bridge between infrastructure and development teams.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Aprendizaje rápido
+### ⚡ Fast learner
 
-Mi stack es amplio porque **aprendo herramientas nuevas rápido y las llevo a la práctica**, no solo a la teoría.
+My stack is broad because **I pick up new tools quickly and put them into practice**, not just into theory.
 
-- Trabajo con **tres nubes**: AWS, Azure y GCP.
-- Uso **tres enfoques de IaC**: Terraform, CloudFormation y Ansible.
-- Cada proyecto que hago queda **documentado con evidencias**, para que cualquiera del equipo lo pueda reproducir.
+- I work with **three clouds**: AWS, Azure and GCP.
+- I use **three IaC approaches**: Terraform, CloudFormation and Ansible.
+- Every project I build is **documented with evidence**, so anyone on the team can reproduce it.
 
 </td>
 </tr>
 </table>
 
-### 🗺️ Mi visión de la infraestructura, de punta a punta
+### 🗺️ My end-to-end view of infrastructure
 
 ```mermaid
 flowchart LR
-    A["🌐 Redes y Telecom<br/>Cisco · MSTP · ISP · Proxy"] --> B["🖥️ Infraestructura<br/>Linux · IaaS · Servidores"]
+    A["🌐 Networking & Telecom<br/>Cisco · MSTP · ISP · Proxy"] --> B["🖥️ Infrastructure<br/>Linux · IaaS · Servers"]
     B --> C["☁️ Cloud<br/>AWS · Azure · GCP"]
     C --> D["📜 IaC<br/>Terraform · CloudFormation · Ansible"]
-    D --> E["📦 Contenedores<br/>Docker · Kubernetes · Helm"]
+    D --> E["📦 Containers<br/>Docker · Kubernetes · Helm"]
     E --> F["🔄 CI/CD<br/>GitHub Actions"]
-    F --> G["📊 Observabilidad<br/>Grafana"]
-    S["🛡️ Seguridad en cada capa"] -.-> A & C & E
+    F --> G["📊 Observability<br/>Grafana"]
+    S["🛡️ Security at every layer"] -.-> A & C & E
 ```
 
 ---
 
-## 💼 Lo que aporto a tu equipo
+## 💼 What I bring to your team
 
-| Área | Qué puedo hacer |
+| Area | What I can do |
 |---|---|
-| ☁️ **Cloud** | Diseñar y desplegar infraestructura en AWS, Azure (IaaS, AKS, Functions) y GCP. |
-| 📜 **Infraestructura como código** | Convertir infraestructura manual en código versionado, repetible y revisable. |
-| 📦 **Contenedores** | Empaquetar aplicaciones con Docker y operarlas en Kubernetes con Helm y políticas de red. |
-| 🔄 **Automatización** | Construir pipelines de CI/CD y automatizar configuración de servidores con Ansible. |
-| 🌐 **Redes** | Configurar y diagnosticar redes (Cisco, MSTP, proxies) con criterio de ingeniería de telecomunicaciones. |
-| 🛡️ **Seguridad** | Identificar vulnerabilidades en laboratorio y aplicar ese aprendizaje al hardening de sistemas. |
-| 📊 **Operación** | Monitorear servicios con Grafana y documentar procesos para que el equipo los repita. |
+| ☁️ **Cloud** | Design and deploy infrastructure on AWS, Azure (IaaS, AKS, Functions) and GCP. |
+| 📜 **Infrastructure as Code** | Turn manual infrastructure into versioned, repeatable, reviewable code. |
+| 📦 **Containers** | Package applications with Docker and run them on Kubernetes with Helm and network policies. |
+| 🔄 **Automation** | Build CI/CD pipelines and automate server configuration with Ansible. |
+| 🌐 **Networking** | Configure and troubleshoot networks (Cisco, MSTP, proxies) with a telecom engineering mindset. |
+| 🛡️ **Security** | Find vulnerabilities in a lab environment and apply those lessons to system hardening. |
+| 📊 **Operations** | Monitor services with Grafana and document processes so the team can repeat them. |
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech stack
 
 ### ☁️ Cloud
 
@@ -89,7 +89,7 @@ flowchart LR
   </tr>
 </table>
 
-### ⚙️ DevOps e Infraestructura como código
+### ⚙️ DevOps & Infrastructure as Code
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ flowchart LR
   </tr>
 </table>
 
-### 🛡️ Ciberseguridad
+### 🛡️ Cybersecurity
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ flowchart LR
   </tr>
 </table>
 
-### 🌐 Redes y Telecomunicaciones
+### 🌐 Networking & Telecommunications
 
 <table>
   <tr>
@@ -128,14 +128,14 @@ flowchart LR
   </tr>
 </table>
 
-| Concepto | Experiencia |
+| Concept | Experience |
 |---|---|
-| 🔀 **MSTP** | Diseño de redes conmutadas redundantes y libres de bucles. |
-| 🏢 **ISP** | Arquitectura y funcionamiento de redes de proveedores de servicio. |
-| 🧭 **Proxy Server** | Configuración de proxies para control y seguridad del tráfico. |
-| 📡 **Computer Networking** | Modelo TCP/IP, direccionamiento, segmentación y diagnóstico de red. |
+| 🔀 **MSTP** | Designing redundant, loop-free switched networks. |
+| 🏢 **ISP** | Architecture and operation of service provider networks. |
+| 🧭 **Proxy Server** | Configuring proxies for traffic control and security. |
+| 📡 **Computer Networking** | TCP/IP model, addressing, segmentation and network troubleshooting. |
 
-### 💻 Lenguajes, bases de datos y herramientas
+### 💻 Languages, databases & tools
 
 <table>
   <tr>
@@ -154,58 +154,58 @@ flowchart LR
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/><br/><sub><b>IntelliJ IDEA</b></sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/cucumber/23D96C" width="48" height="48" alt="Cucumber"/><br/><sub><b>Cucumber / Gherkin</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html,css&perline=2" width="48" height="24" alt="HTML y CSS"/><br/><sub><b>HTML / CSS</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html,css&perline=2" width="48" height="24" alt="HTML and CSS"/><br/><sub><b>HTML / CSS</b></sub></td>
   </tr>
 </table>
 
-### 🤝 Habilidades profesionales
+### 🤝 Professional skills
 
 <p>
-  <img src="https://img.shields.io/badge/Comunicaci%C3%B3n-0f3d3e?style=for-the-badge" alt="Comunicación"/>
-  <img src="https://img.shields.io/badge/Planificaci%C3%B3n%20de%20proyectos-0f3d3e?style=for-the-badge" alt="Planificación de proyectos"/>
-  <img src="https://img.shields.io/badge/Gesti%C3%B3n%20de%20infraestructura%20TI-0f3d3e?style=for-the-badge" alt="Gestión de infraestructura TI"/>
-  <img src="https://img.shields.io/badge/Documentaci%C3%B3n%20t%C3%A9cnica-0f3d3e?style=for-the-badge" alt="Documentación técnica"/>
-  <img src="https://img.shields.io/badge/Aprendizaje%20aut%C3%B3nomo-0f3d3e?style=for-the-badge" alt="Aprendizaje autónomo"/>
+  <img src="https://img.shields.io/badge/Communication-0f3d3e?style=for-the-badge" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Project%20Planning-0f3d3e?style=for-the-badge" alt="Project Planning"/>
+  <img src="https://img.shields.io/badge/IT%20Infrastructure%20Management-0f3d3e?style=for-the-badge" alt="IT Infrastructure Management"/>
+  <img src="https://img.shields.io/badge/Technical%20Documentation-0f3d3e?style=for-the-badge" alt="Technical Documentation"/>
+  <img src="https://img.shields.io/badge/Self--directed%20Learning-0f3d3e?style=for-the-badge" alt="Self-directed Learning"/>
 </p>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Qué resuelve | Qué demuestra | Stack |
+| Project | What it does | What it shows | Stack |
 |---|---|---|---|
-| ☸️ [**AKS-Cluster**](https://github.com/Juansex/AKS-Cluster) | Crea un cluster de Kubernetes en Azure y publica una app Nginx con 3 réplicas detrás de un LoadBalancer. | Cloud + IaC + orquestación en un solo flujo automatizado. | Terraform · Azure · Kubernetes |
-| ⚡ [**Lab_Terraform**](https://github.com/Juansex/Lab_Terraform) | Despliega una Azure Function serverless con trigger HTTP, 100% como código. | Arquitectura serverless, buenas prácticas de seguridad (TLS 1.2+) y outputs reutilizables. | Terraform · Azure Functions · Node.js |
-| 🔐 [**pentest-home-lab**](https://github.com/Juansex/pentest-home-lab) | Laboratorio de pentesting aislado con Kali Linux y Metasploitable 2 en una red interna sin salida a Internet. | Diseño de redes aisladas, ética profesional y documentación con evidencias. | Kali · VirtualBox · Redes |
-| 🌐 [**Networking_policies**](https://github.com/Juansex/Networking_policies) | Segmenta una app de 3 capas (Nginx → API → PostgreSQL) con políticas default-deny en Kubernetes. | Principio de menor privilegio aplicado a la red de contenedores. | Kubernetes · Shell |
-| 📦 [**Helm-charts**](https://github.com/Juansex/Helm-charts) | Empaqueta y despliega aplicaciones en Kubernetes con Helm, incluido un scan-exporter. | Despliegues repetibles y versionados. | Helm · Kubernetes |
+| ☸️ [**AKS-Cluster**](https://github.com/Juansex/AKS-Cluster) | Provisions a Kubernetes cluster on Azure and publishes an Nginx app with 3 replicas behind a LoadBalancer. | Cloud + IaC + orchestration in a single automated flow. | Terraform · Azure · Kubernetes |
+| ⚡ [**Lab_Terraform**](https://github.com/Juansex/Lab_Terraform) | Deploys a serverless Azure Function with an HTTP trigger, 100% as code. | Serverless architecture, security best practices (TLS 1.2+) and reusable outputs. | Terraform · Azure Functions · Node.js |
+| 🔐 [**pentest-home-lab**](https://github.com/Juansex/pentest-home-lab) | Isolated pentesting lab with Kali Linux and Metasploitable 2 on an internal network with no Internet access. | Isolated network design, professional ethics and evidence-based documentation. | Kali · VirtualBox · Networking |
+| 🌐 [**Networking_policies**](https://github.com/Juansex/Networking_policies) | Segments a 3-tier app (Nginx → API → PostgreSQL) with default-deny network policies on Kubernetes. | Principle of least privilege applied to container networking. | Kubernetes · Shell |
+| 📦 [**Helm-charts**](https://github.com/Juansex/Helm-charts) | Packages and deploys applications on Kubernetes with Helm, including a scan-exporter. | Repeatable, versioned deployments. | Helm · Kubernetes |
 
 ---
 
-## 🧭 Cómo trabajo
+## 🧭 How I work
 
-- **Automatizo todo lo que se repite.** Si lo hice dos veces a mano, la tercera es código.
-- **Seguridad desde el diseño**, no como parche al final.
-- **Documento con evidencias**, para que el equipo pueda reproducir, auditar y mantener lo que construyo.
-- **Entiendo el problema completo** antes de elegir la herramienta.
+- **I automate everything that repeats.** If I've done it by hand twice, the third time it's code.
+- **Security by design**, not as a patch at the end.
+- **I document with evidence**, so the team can reproduce, audit and maintain what I build.
+- **I understand the whole problem** before choosing the tool.
 
-## 🌱 En qué estoy ahora
+## 🌱 What I'm working on now
 
-- 🔍 Enumeración y análisis de vulnerabilidades con Nmap en mi laboratorio de pentesting.
-- 🔒 Hardening de clusters de Kubernetes y políticas de red.
-- 📊 Observabilidad de servicios con Grafana.
+- 🔍 Enumeration and vulnerability analysis with Nmap in my pentesting lab.
+- 🔒 Kubernetes cluster hardening and network policies.
+- 📊 Service observability with Grafana.
 
 ---
 
 <div align="center">
 
-## 📫 Hablemos
+## 📫 Let's talk
 
-¿Buscas a alguien que entienda tu infraestructura de punta a punta y aprenda rápido lo que tu equipo necesita? **Escríbeme.**
+Looking for someone who understands your infrastructure end to end and quickly learns whatever your team needs? **Reach out.**
 
 <a href="https://github.com/boterooyola"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Agrega aquí tu LinkedIn:
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- Add your LinkedIn here:
+<a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,50:0f3d3e,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
