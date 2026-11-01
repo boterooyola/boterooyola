@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=From+the+physical+network+to+the+cloud;Infrastructure+as+Code+on+AWS%2C+Azure+and+GCP;Kubernetes%2C+Docker+and+CI%2FCD;Security+by+design;I+learn+fast.+I+ship+documented+work." alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/Open%20to%20opportunities-00b894?style=for-the-badge" alt="Open to opportunities"/>
+
 
 </div>
 
