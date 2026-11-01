@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00b894&height=190&section=header&text=Juan%20Sebasti%C3%A1n%20Botero&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=Cloud%20%C2%B7%20DevOps%20%C2%B7%20Cybersecurity%20%C2%B7%20Networking&descAlignY=56&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00b894&height=190&section=header&text=Juan%20Sebasti%C3%A1n%20Botero%20Oyola&fontSize=34&fontColor=ffffff&fontAlignY=34&desc=Cloud%20%C2%B7%20DevOps%20%C2%B7%20Cybersecurity%20%C2%B7%20Networking&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=From+the+physical+network+to+the+cloud;Infrastructure+as+Code+on+AWS%2C+Azure+and+GCP;Kubernetes%2C+Docker+and+CI%2FCD;Security+by+design;I+learn+fast.+I+ship+documented+work." alt="Typing SVG" /></a>
 
